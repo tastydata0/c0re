@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="c0re:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/c0re_jar</output-path>
+    <root id="archive" name="c0re.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="c0re" />
+      <element id="directory" name="assets">
+        <element id="dir-copy" path="$PROJECT_DIR$/assets" />
+      </element>
+    </root>
+  </artifact>
+</component>

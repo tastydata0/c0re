@@ -1,0 +1,26 @@
+word processing
+flash drive
+keyboard
+motherboard
+hard disk
+random access memory
+internet address
+world-wide web
+programming
+data processing
+main program
+processing program
+recovery program
+algorithm
+copy protect
+implementation
+polymorphism
+encapsulation
+composition
+aggregation
+extends
+0x011101
+byte_array
+recieve_data[]
+public class Core
+java.util.Scanner
