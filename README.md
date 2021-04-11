@@ -4,10 +4,6 @@ You will have to write code, simplified of course :), to work with console with 
 This application can be called very simple emulator if an operating system.\
 By the way, in order to save state of game it's not enough to simply exit - you need to write `shutdown` in console\
 
-In order to try it you need to download `EXE` folder and launch `c0re.exe`, but with `assets` folder in the same directory.\
-![image](https://user-images.githubusercontent.com/76962395/114260877-16d95d00-99e0-11eb-9335-39b38d5ad67d.png)
-
-
 Here is a few screenshots of a game ^_^
 
 ![image](https://user-images.githubusercontent.com/76962395/114260663-0379c200-99df-11eb-9742-d4d1c594b44c.png)
